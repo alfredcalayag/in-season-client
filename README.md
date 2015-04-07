@@ -1,4 +1,4 @@
-#In Season API
+#In Season - Web Client
 
 *This app is still under development.*
 
